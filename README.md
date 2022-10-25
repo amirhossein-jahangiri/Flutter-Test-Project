@@ -20,7 +20,7 @@
  ### <b>[Simple Shop Screen](https://github.com/amirhossein-jahangiri/Flutter-Test-Project/tree/master/simple_shop_screen)</b>
 <img src='simple_shop_screen/shots/shot.png' width='200' height='400'>
 
- ### <b>[Simple Signin Signup Screen](https://github.com/amirhossein-jahangiri/Flutter-Test-Project/tree/master/simple_signin_and_signup_screen)</b>
+ ### <b>[Simple Signin Signup Screen](https://github.com/amirhossein-jahangiri/Flutter-Test-Project/tree/master/simple_signin_and_signup)</b>
 <div>
 <img src='simple_signin_and_signup/shots/1.png' width='200' height='400'>
 <img src='simple_signin_and_signup/shots/2.png' width='200' height='400'>
